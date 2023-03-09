@@ -5,7 +5,7 @@ This repository is part of a youtube video, in which I look into pyglet as a
 
 ## Running the code
 
-You'll need to install pygame to the code here. You can do this from the
+You'll need to install pyglet to the code here. You can do this from the
 `requirements.txt` with the following command. Needless to say, but you'll
 need python and pip installed on your machine.
 
